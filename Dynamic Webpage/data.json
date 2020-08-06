@@ -1,0 +1,48 @@
+{
+	"details": {
+		"name": "Prathyusha",
+		"image": "download.jpg",
+		"email": "prathyusha1234@gmail.com",
+		"number": "+91-9999999999",
+		"address": "Guntur"
+	},
+	"careerobjective": {
+		"info": "To become software developer"
+	},
+	"educationalqualification": [
+
+
+		{
+
+			"institute": "Vasireddy Venkatadri Institute of Technology",
+			"degree": "B.tech",
+			"passoutyear": "2021",
+			"percentage": "81%"
+		},
+		{
+			"institute": "sri chaitanya college",
+			"degree": "Intermediate",
+			"passoutyear": "2017",
+			"percentage": "95%"
+		},
+		{
+			"institute": "Sri chaitanya school",
+			"degree": "SSC",
+			"passoutyear": "2015",
+			"percentage": "98%"
+		}
+
+	],
+
+	"techinicalskills": [{
+			"title": "programming langauges",
+			"info": ["python,java,c++,c"]
+		},
+
+		{
+			"title": "Operating system",
+			"info": ["windows,linux"]
+		}
+
+	]
+}
